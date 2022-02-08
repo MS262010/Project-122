@@ -1,0 +1,18 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 20px;
+	color: red;
+	margin: 5px;
+}
+canvas
+{
+	background: rgb(89, 238, 139);
+	border-radius: 20px;
+}
+h1{
+	font-family: 'Supermercado One', cursive;
+}
